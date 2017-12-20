@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1512074545 source:d:\cprojects\2017\vitok_2\krok_1\i\main.cpp
+	<iostream>
+	<algorithm>
+
+1512122853 source:d:\cprojects\2017\vitok_2\krok_1\i (Не готова)\main.cpp
+	<iostream>
+	<cmath>
+	<stdio.h>
+	<algorithm>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1511983122 source:d:\cprojects\2017\vitok_1\krok_8\a\main.cpp
+	<iostream>
+	<math.h>
+	<stdlib.h>
+

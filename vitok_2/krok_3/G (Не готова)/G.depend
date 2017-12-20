@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1513783701 source:d:\education\university\uzhhorod\ii year\i half\c++\vitok_2\krok_3\g\main.cpp
+	<cmath>
+	<stdio.h>
+	<iostream>
+	<algorithm>
+

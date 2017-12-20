@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1506617917 source:d:\cprojects\2017\01_vitok\b\h\main.cpp
+	<iostream>
+	<cstring>
+	<stdlib.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1508263679 source:d:\cprojects\2017\01_vitok\krok_7\sortirovka po rostu\main.cpp
+	<iostream>
+	<vector>
+	<stdio.h>
+
